@@ -4,7 +4,7 @@ A personal robotics engineering project focused on mechanical design, servo-base
 
 ## Overview
 
-This project involves the design and development of a 6-degree-of-freedom robotic arm using CAD, hobby servo motors, and embedded control.
+This project involves the design and development of a 6-degree-of-freedom robotic arm using CAD, SG90 and MG996R servo motors, and embedded control.
 
 The objective is to develop a functional robotic arm capable of controlled joint movement and basic object manipulation while exploring mechanical design, electronics, and robotics software.
 
@@ -12,7 +12,7 @@ The objective is to develop a functional robotic arm capable of controlled joint
 
 **Current stage:** Mechanical CAD development
 
-The project is currently focused on the mechanical assembly and joint design. Electronics integration, actuator selection, and control software will be developed in subsequent stages.
+The project is currently focused on the working on the math of forward and inverse kinematics and implementation in python. The Electronics integration, and physical assembly will be developed in subsequent stages.
 
 ## Objectives
 
@@ -32,7 +32,7 @@ The project is currently focused on the mechanical assembly and joint design. El
 
 ## Mechanical Design
 
-The mechanical subsystem consists of a base, articulated links, joints, and an end effector.
+The mechanical subsystem consists of a base, articulated links, joints, and an end effector(gripper).
 
 [Insert CAD assembly render]
 
@@ -45,8 +45,8 @@ Detailed mechanical documentation:
 ## Development Roadmap
 
 - [x] Begin mechanical CAD development
-- [ ] Complete mechanical assembly
-- [ ] Finalize actuator selection
+- [x] Complete mechanical assembly
+- [x] Finalize actuator selection
 - [ ] Develop electronics and power architecture
 - [ ] Implement joint control
 - [ ] Develop forward kinematics
