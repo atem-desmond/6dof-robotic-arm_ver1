@@ -36,9 +36,6 @@ The mechanical subsystem consists of a base, articulated links, joints, and an e
 ## Full Assembly
 
 ![Full Robotic Arm Assembly](Images/Full_assembly.png)
-### Gripper Assembly
-
-![Gripper Assembly](Images/Gripper close-up.png)
 
 ## Development Roadmap
 
