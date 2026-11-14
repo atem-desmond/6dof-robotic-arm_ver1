@@ -35,10 +35,10 @@ The project is currently focused on the working on the math of forward and inver
 The mechanical subsystem consists of a base, articulated links, joints, and an end effector(gripper).
 ## Full Assembly
 
-![Full Robotic Arm Assembly](Images/Full_Assembly.png)
+![Full Robotic Arm Assembly](Images/Full_assembly.png)
 ### Gripper Assembly
 
-![Gripper Assembly](Images/Gripper_Assembly.png)
+![Gripper Assembly](Images/Gripper close-up.png)
 
 ## Development Roadmap
 
