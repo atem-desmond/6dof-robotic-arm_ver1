@@ -33,14 +33,12 @@ The project is currently focused on the working on the math of forward and inver
 ## Mechanical Design
 
 The mechanical subsystem consists of a base, articulated links, joints, and an end effector(gripper).
+## Full Assembly
 
-[Insert CAD assembly render]
+![Full Robotic Arm Assembly](Images/Full_Assembly.png)
+### Gripper Assembly
 
-Detailed mechanical documentation:
-
-- [Mechanical Design](docs/mechanical-design.md)
-- [System Architecture](docs/system-architecture.md)
-- [Design Decisions](docs/design-decisions.md)
+![Gripper Assembly](Images/Gripper_Assembly.png)
 
 ## Development Roadmap
 
